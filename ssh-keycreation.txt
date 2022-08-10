@@ -1,0 +1,8 @@
+# Open  terminal and run the below command to create ssh key : ssh-keygen
+# give enter 3 times to create SSH key.
+# always SSH keys will create or store into Users Location
+# copy ssh public key and goto github settings & select ssh keys
+# add SSH key and save
+# do git operations using SSH URL link
+Example URL link: 
+git@github.com:visweswaraiahm/devops2.git 
